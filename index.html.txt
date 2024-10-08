@@ -3,9 +3,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Data Privacy Blog</title>
+    <title>Data Privacy and Cybersecurity Blog</title>
 </head>
 <body>
-    <h1>Welcome to the Data Privacy Blog!</h1>
+    <h1>Welcome to the Data Privacy and Cybersecurity Blog!</h1>
+    <p>This blog explores important topics about data privacy and cybersecurity from the perspective of a Perpetualite student.</p>
+    
+    <nav>
+        <ul>
+            <li><a href="data-privacy.html">Data Privacy</a></li>
+            <li><a href="cybersecurity.html">Cybersecurity</a></li>
+        </ul>
+    </nav>
 </body>
 </html>
