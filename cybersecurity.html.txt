@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cybersecurity for Perpetualite Students</title>
+</head>
+<body>
+    <h1>Cybersecurity for Perpetualite Students</h1>
+    <p>Cybersecurity involves protecting your online presence from threats such as hackers and malware. As a student, it’s essential to be aware of the risks and take steps to protect your data.</p>
+    
+    <h2>Cybersecurity Tips</h2>
+    <ul>
+        <li>Install antivirus software on your devices and keep it updated.</li>
+        <li>Don’t click on suspicious links or download attachments from unknown sources.</li>
+        <li>Use two-factor authentication (2FA) whenever possible for added security.</li>
+        <li>Update your software regularly to patch security vulnerabilities.</li>
+    </ul>
+    
+    <a href="index.html">Back to Home</a>
+</body>
+</html>
