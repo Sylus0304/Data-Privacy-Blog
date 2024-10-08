@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Privacy for Perpetualite Students</title>
+</head>
+<body>
+    <h1>Data Privacy for Perpetualite Students</h1>
+    <p>As students, it’s essential to understand how personal data is collected, stored, and used in the digital world. Protecting your personal information is crucial to maintain privacy.</p>
+    
+    <h2>Why Data Privacy Matters</h2>
+    <p>Data privacy ensures that personal information, such as identity, academic records, and contact details, are protected from unauthorized access and use.</p>
+    
+    <h2>Best Practices for Students</h2>
+    <ul>
+        <li>Be cautious about what you share online, especially on social media.</li>
+        <li>Use strong, unique passwords for different accounts and change them regularly.</li>
+        <li>Review the privacy settings of apps and websites you use frequently.</li>
+    </ul>
+    
+    <a href="index.html">Back to Home</a>
+</body>
+</html>
